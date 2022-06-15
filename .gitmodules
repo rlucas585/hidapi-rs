@@ -1,3 +1,4 @@
 [submodule "etc/hidapi"]
 	path = etc/hidapi
 	url = https://github.com/rlucas585/hidapi.git
+    branch = no_reinit
